@@ -1,0 +1,23 @@
+cd d:/Mazurb
+cd ProgUzytkowe
+pwd
+
+git add --help
+git add -h
+
+git init         //inicjowanie folderu
+
+http://commonmark.org/help/
+
+git status        //sprawdzenie jakie zmiany nastepuja
+
+git commit -am              //"opis zmian"
+
+******
+git add
+git commit		/wysylanie zmian na serwer
+git push
+******
+
+
+Wa¿ne polecenia: git branch, git checkout, git reset, git revert, git merge, git fetch, git pull.
